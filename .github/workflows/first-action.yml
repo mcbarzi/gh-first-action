@@ -11,4 +11,4 @@ jobs:
       - name: Print multiple
         run: |
           echo "First Output"
-          echo "Second Output:
+          echo "Second Output:"
